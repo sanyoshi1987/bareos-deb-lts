@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: BareOS
+Label: bareos
+Suite: stable
+Codename: xUbuntu_22.04
+Version: 22.1.0
+Architectures: amd64
+Components: main
+Description: BareOS packages
+Date: Wed, 26 Jul 2023 07:29:35 +0000
+MD5Sum:
+ 923e604691fc927ab5b5c259b5dc32c6 20415 Packages
+ 0345cb456b0998449a6e93119a74de5a 1037464 bareos-common_22.1.0_amd64.deb
+ 1a717ec11d67e75d8f2bfc2eda41c16e 36032 bareos-contrib-tools_22.1.0_amd64.deb
+ d1359d35e58d9bf7c541d68d714be1c8 5462 Packages.gz
+ 40c3daab9aa4d5896dc0d5167493b5d5 203642 bareos-storage-tape_22.1.0_amd64.deb
+ a571604c78c6e06ee9ea03c86b0f8671 62040 bareos-database-postgresql_22.1.0_amd64.deb
+ d749e002e32b777488cd6d6103da588e 235696 bareos-storage_22.1.0_amd64.deb
+ c2924d34f67a47f44744d3a3fbb3b7ff 866 Release.gpg
+ 3bcc2fe0b951f37684b6d495016c07ed 283602 bareos-database-tools_22.1.0_amd64.deb
+ 1921381eee5dd8f9f1be8d583a9214b8 37129320 bareos-dbg_22.1.0_amd64.deb
+ d53e9a6f8dda6908df9edd846f99878d 30048 bareos_22.1.0_amd64.deb
+ e9e852ff437e536f07aeb3dd3913e72a 250012 bareos-filedaemon_22.1.0_amd64.deb
+ f4b95fa89be2a54abbebab136e22d0e4 172472 bareos-storage-droplet_22.1.0_amd64.deb
+ bf9bc352a774502ce4d3b35c5c6bea51 40444 bareos-storage-fifo_22.1.0_amd64.deb
+ b5f1542da9a91341400d0b75a7431616 114500 bareos-database-common_22.1.0_amd64.deb
+ 2dcc4838f0299b896160ae7fc3a60a64 155626 bareos-bconsole_22.1.0_amd64.deb
+ 2ef6ea8db604c69cb4c44af81c022f3d 29884 bareos-client_22.1.0_amd64.deb
+ 3b3d138b6baefd726d922bcdde2f0fdd 3228 pgp-key.public
+ f996d74bd662bb58d89ec12f8c3bf555 563736 bareos-director_22.1.0_amd64.deb
+ 3bf8edf39fb19d6b061e9c7c5ac843e4 390670 bareos-tools_22.1.0_amd64.deb
+ 4cb48e0075cd3ead3a39d611f65e996a 189138 bareos-traymonitor_22.1.0_amd64.deb
+ 2963b0384c4289b9d4bd12806526ec91 4214660 bareos-webui_22.1.0_all.deb
+SHA1:
+ 0403294b8e06c7ea54ac75d0043a25cc0efddaec 20415 Packages
+ 42eeb43099acd6accf294d64223425bedb83145c 1037464 bareos-common_22.1.0_amd64.deb
+ 5a38fd279d6731291d560e9e38cb54a88c391a9b 36032 bareos-contrib-tools_22.1.0_amd64.deb
+ 24bc930dddfa6a1d55f715b52c44a78f72e1c604 5462 Packages.gz
+ 7fb670c440be90536e4cde4cbaa70073c0ceed2f 203642 bareos-storage-tape_22.1.0_amd64.deb
+ 467ac0dd76b1c59f9a30b4ee9f62454e58d34fe6 62040 bareos-database-postgresql_22.1.0_amd64.deb
+ 1c8d812431985d1237afc0e6da223160e25f1c08 235696 bareos-storage_22.1.0_amd64.deb
+ 1f4915ece2a53d28d1e7201efb1f479f33d8692b 866 Release.gpg
+ a796a6bb326364535add4f73938ed7445f6592b9 283602 bareos-database-tools_22.1.0_amd64.deb
+ f5bb97fd66cfdff6630883c1d1a3334213159e8f 37129320 bareos-dbg_22.1.0_amd64.deb
+ 214809cc3b62128eac99751831378080fd6701f3 30048 bareos_22.1.0_amd64.deb
+ 2c1ef3c40eb7dc3567e8be1f2823f1ee87803e35 250012 bareos-filedaemon_22.1.0_amd64.deb
+ 6dc98da48251175db84ab1ad21c01eff74a97b89 172472 bareos-storage-droplet_22.1.0_amd64.deb
+ c69449b3594d65e31c49fe9176c14f65f0a06697 40444 bareos-storage-fifo_22.1.0_amd64.deb
+ 287bc1a3c795c4a573020958ff2020a9a3479c74 114500 bareos-database-common_22.1.0_amd64.deb
+ 5f04178ccf8326beac9b14dba5009dbca2902bf4 155626 bareos-bconsole_22.1.0_amd64.deb
+ 02c74eb5fb24d0bfae8422748c0f41654388b168 29884 bareos-client_22.1.0_amd64.deb
+ 78fcafef6b79ec85ea1452119ea96d41d2e166d5 3228 pgp-key.public
+ f3fc6573c7bf8a2c139b4eeccee716b8a643eb0e 563736 bareos-director_22.1.0_amd64.deb
+ 30fd0bb08135db56981c84009b22350d3037ac04 390670 bareos-tools_22.1.0_amd64.deb
+ 5de5de6a5b140e3c6db90be67a78e8407b80bec6 189138 bareos-traymonitor_22.1.0_amd64.deb
+ ff1ad6c9c2a69594d8b0ae038353501d285f1fb9 4214660 bareos-webui_22.1.0_all.deb
+SHA256:
+ 5c7b84c644febd97fc44e8bc26ae044b4292d68829379d507f274ec7bc055796 20415 Packages
+ 952607154a3dabe319c082147016bf1017d344131d4bc96fec07b8be4f7c6325 1037464 bareos-common_22.1.0_amd64.deb
+ 573a07d93d1693f63a61eebebbee229124dfb0a1b3e37bbce1b601684cb0daf6 36032 bareos-contrib-tools_22.1.0_amd64.deb
+ 2edf5dd1be6e78eeaa212321e3a5fe50354e5205bc26399903d50588d2df0d23 5462 Packages.gz
+ 8c9b3affb42bd78f99a02698506f4addb6d1947116b2701cbb4a670a6a02971d 203642 bareos-storage-tape_22.1.0_amd64.deb
+ b47656665cc29830c910adfd7c34c88d2720957feb51b8344379788f2e068c2c 62040 bareos-database-postgresql_22.1.0_amd64.deb
+ d75beeb07449d34726a1eb5cb22284f5a4fcf7fdb6ab1ef53bfb9d9ff911175a 235696 bareos-storage_22.1.0_amd64.deb
+ 9d1f86bc0de4cc3c9c94ea13912d662e83564993191da1d6e2d1b3adc40f00e6 866 Release.gpg
+ b7a707a42b845fbc77df27c8f59ce9b9b3cf4ca69a4ea094ab602b2f53a98e99 283602 bareos-database-tools_22.1.0_amd64.deb
+ 36c6dafdf4b3b4659b0a111e5c3a19c5856273b9b00c1b3afdb166a928033654 37129320 bareos-dbg_22.1.0_amd64.deb
+ 318a9dcd4843e30e8dcf7a2f77ec07e7c00811f546656bbd7fddbfa69dcfd05c 30048 bareos_22.1.0_amd64.deb
+ 2af1a874c2e6471e3a000465721bd12588fb3c828621db0c3e1ab2016db56f3b 250012 bareos-filedaemon_22.1.0_amd64.deb
+ 900eec1abe9e27cfd46f6501b0c26c610ca0aadaa3e16f0283839c88df14da65 172472 bareos-storage-droplet_22.1.0_amd64.deb
+ 0bc4661265f61bdb7c8e9cd9cd1d120d727c5bc278af60c4b0eefa0da0aed7ad 40444 bareos-storage-fifo_22.1.0_amd64.deb
+ 660c80b96710ca7bf44fdd6ac7ab544c24965a5da8ae0d9ef5e8b7c1a76fb8b0 114500 bareos-database-common_22.1.0_amd64.deb
+ 8174deeda8d88f65d94404ca2d6f7a43f713afa42170ddf9eb22cec0f020ca62 155626 bareos-bconsole_22.1.0_amd64.deb
+ 100021e2a287819c8217e72c7c63b8e5fbe478d51fa156b1175266d25c55675a 29884 bareos-client_22.1.0_amd64.deb
+ 0660b9fbc8bcd49694d89c73ee8a561f0c3cbc5c027e22d6351c92ec80a3ae65 3228 pgp-key.public
+ e0a276e15c5f6c01f1b1806147af9ca1aad1dea08c4217b58df2a32d2cee2f49 563736 bareos-director_22.1.0_amd64.deb
+ d4a133699904298ab6151321fe4c9714abd4c49e0d28ff4460b9a0cac46512cf 390670 bareos-tools_22.1.0_amd64.deb
+ 5b96787e66a0d6769a9668bf7543cf8787a25e28bdd5cff1be31b39c77cfd567 189138 bareos-traymonitor_22.1.0_amd64.deb
+ a7508c380e7c53589cc9f17ebdb75ec13a5ec6448339446663eeaa97fde487b0 4214660 bareos-webui_22.1.0_all.deb
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCgA2FiEEcdIuxRB3R+NmCYl1YLt/CDM4AssFAmTAy6AYHGJhcm5lLmdl
+cmdlbHlAdXJzeXMubmV0AAoJEGC7fwgzOALLQxsP/jrw0BGoCN8u6xb2SsQSAEjh
+u+L/5dVKJm3bihMcWefGSZ2j9gwLcIid1oxfswWr+aikr3zan5Rddf702kwiOG6U
+TZ70MqhBtaeF+1ppc6usLy0RLjXygIa1E6cjfqXaFkdO8KL7TxvpA9gIYg4stjBj
+SZW0WcnU9cb2gTiUcLNb+Jfs/KwwLDvweRKpEKCnr0iu0VFjSxE87u6y0ZFZoZ15
+X5EvpRgnKZ0/Ri4pgJSjH/mM7DO3aW42vCa6Qi5tfrGESRDo8AWJYFUcr/NiV4CE
+fcUnXVgD2EoSKBILXo/WVfepBwwNcTZOit5VvjJMZlQPLzasip2FT8ynH8V39pBZ
+BMngRcPznY4KXHz213o0FoG9k+tBARqy5sgpbJ+bOA6z6eQQ4iWpawRQruQ1AbEO
+sBdXWmBJryjJyGbrYbF6/rpZzDqaAY3VqFf8JuUb0D6vnVVybHwoYaBkLQ0n0QBy
+jikR6I/0t/jOmzEtwgsNRl/raBhYD3nwunKqqdaIK7sRNEkIpG9LGSQqSoBvWMkj
+t1akctPy5eYFjVV6vccf+dRq8wrvXLP3Vk+/m2BB6smMdqcdygzsyttAj6kCebMr
+OA3I7Z909Q7fAJ8ahMyiRHKJLO34CVJkbRbLHFZGZaIXa2yl5hOxLE7a7tI6Srni
+wk6dpkDx4ty1NsmyxyNf
+=vJ8t
+-----END PGP SIGNATURE-----
